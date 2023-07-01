@@ -30,7 +30,7 @@
       },
       "CLIENT": {
         "description": "Pyrogram String Session Or Bot Token",
-        "value": "",
+        "value": "BQAjxmaGofMZIYGWmU5APNUvc5eB5-DnxFw44pH9_pwXi-z_LABSAZpyQTYFerMQnr8ZB0AllYQAoNNwRVDsI8lFoDEHyFW4iE0gqrWjzt2_UrAmg3goKVQFSZZ7jnyctei6gIvYZsdKhXipDZe-SjkLzERYKJn6_hvllIyKPVkhfPfCZLc_MwCXwlkMJraTXbs9qylZ3SMj-wmZJKIxrBFMG6PQmA0C0ABLeTZEw7NTXZP8Iff4ntHtLH2EN99z6oPdLGVgBO7o1gPPvmILgJGFSZQ5k3lR8t_M1WFXgovshhcV6WNQjYgDN2iLRtRlmrNZCOEQGdlyyXZP0feMXagKAAAAAWDtFlgA",
         "required": true
       },
       "CLIENT2": {
